@@ -10,13 +10,13 @@ Criação de um mini-erp utilizando:
 
 ## O que foi implementado?
 
--Cadastro de produtos
--Cadastro de clientes
--Cadastro de fornecedores
--Dashboard
--Ciclo de pagamentos
--Tela de login
--Tela de registro
+-Cadastro de produtos;
+-Cadastro de clientes;
+-Cadastro de fornecedores;
+-Dashboard;
+-Ciclo de pagamentos;
+-Tela de login;
+-Tela de registro;
 
 ## Imagens do projeto:
 ![Login](https://i.ibb.co/vHVPGY7/Login.png)
