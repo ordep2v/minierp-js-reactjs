@@ -19,9 +19,8 @@ Criação de um mini-erp utilizando:
 -Tela de registro
 
 ## Imagens do projeto:
-
-![Tela de registro](https://ibb.co/ckg6n6v)
-![Ciclos de pagamentos](https://ibb.co/Cs6YmcN)
-![Dashboard](https://ibb.co/ZBz1qbg)
-![Login](https://ibb.co/W6Gywtb)
-![Registro](https://ibb.co/T8BtbfM)
+![Login](https://i.ibb.co/vHVPGY7/Login.png)
+![Tela de registro](https://i.ibb.co/0MjrF7y/Registro.png)
+![Ciclos de pagamentos](https://i.ibb.co/qFCc7SX/Ciclo-Pagto.png)
+![Dashboard](https://i.ibb.co/fkdGjTN/Dash-Board.png)
+![Registro](https://i.ibb.co/jb6yXy5/Cadastro.png)
