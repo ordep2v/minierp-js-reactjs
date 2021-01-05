@@ -4,6 +4,7 @@ Criação de um mini-erp utilizando:
 - ReactJS
 - NodeJS
 - MongoDB
+- Express
 
 
 
